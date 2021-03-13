@@ -1,4 +1,4 @@
-# newsLetterApp
+# NewsLetterApp
 
 
 
@@ -8,7 +8,7 @@ A newsLetter App which allows users to subscribe to a newsletter and receive ema
 
 
 
-Technologies used:
+# Technologies used:
    -> ExpressJS
    -> NodeJS
    -> MailChimp API
